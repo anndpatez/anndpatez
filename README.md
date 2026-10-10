@@ -19,7 +19,7 @@ Oi! Eu sou a *Andressa Patez*! 💗
 
 Estou iniciando minha jornada no mundo da programação!!
 
-🎯 Atualmente, estou focada em:
+ Atualmente, estou focada em:
 - 🧠 Aprender lógica de programação com Portugol.
 - 💻 Desenvolver meu raciocínio lógico e minhas habilidades de resolução de problemas.
 - 🚀 Conhecer linguagens e ferramentas de desenvolvimento.
@@ -43,7 +43,7 @@ Estou iniciando minha jornada no mundo da programação!!
 - Entrada e saída de dados
 - Construção de algoritmos
 
-## 🌸 Um pouco sobre mim
+##  Um pouco sobre mim
 
 - 💖 Apaixonada por tecnologia e criatividade.
 - 🧩 Gosto de criar soluções e pensar em como melhorar a experiência do usuário.
