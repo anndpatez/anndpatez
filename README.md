@@ -1,8 +1,14 @@
 👩🏻‍💻 Andressa Patez
 
-**`Iniciante em Programação`**
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Andressa, tenho 28 anos e sou de Sorocaba SP. Sou formada em administração de Empresas na UNIP. Atualmente, estou estudando Lógica de Programação atraves de plataformas digitais, como por exemplo a UDEMY. Sou apaixonada por tecnologia e jogos desde criança. Decidi me dedicar a algo que gosto e desde então estou focada em Programação e Desenvolvimento.
+Formada em Administração e atualmente estou direcionando minha carreira para a área de Tecnologia da Informação, buscando unir meus conhecimentos administrativos ao desenvolvimento de soluções tecnológicas.
+
+Estou desenvolvendo minhas habilidades em lógica de programação, algoritmos, variáveis, estruturas condicionais e de repetição, construindo uma base sólida para evoluir na área de desenvolvimento de software.
+
+Tenho interesse em programação, desenvolvimento de sistemas e aprendizado contínuo. Sou uma pessoa curiosa, dedicada e motivada a enfrentar novos desafios, ampliar meus conhecimentos técnicos e transformar ideias em soluções práticas.
+
+🚀 Em busca de oportunidades de estágio e experiências que contribuam para meu crescimento profissional na tecnologia.
 
 
 <a href="https://www.linkedin.com/in/andressa-patez-ab3734189/">
